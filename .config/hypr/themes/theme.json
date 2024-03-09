@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Catppuccin-Latte",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Catppuccin-Latte/abstract_blured.jpg"
+  },
+  {
+    "name": "Catppuccin-Mocha",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Catppuccin-Mocha/aesthetic_deer.png"
+  },
+  {
+    "name": "Cyberpunk-Edge",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Cyberpunk-Edge/cyberpunk_dave.png"
+  },
+  {
+    "name": "Decay-Green",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Decay-Green/arcade_decay_red.png"
+  },
+  {
+    "name": "Frosted-Glass",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Frosted-Glass/blue_desert.png"
+  },
+  {
+    "name": "Graphite-Mono",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Graphite-Mono/chainsawman_sketch.png"
+  },
+  {
+    "name": "Gruvbox-Retro",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Gruvbox-Retro/finalizer.png"
+  },
+  {
+    "name": "Material-Sakura",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Material-Sakura/material_pastel_1.jpg"
+  },
+  {
+    "name": "Rose-Pine",
+    "active": true,
+    "imgPath": "/home/Tuizin/.config/swww/Rose-Pine/default.jpg"
+  },
+  {
+    "name": "Skyrim",
+    "active": false,
+    "imgPath": "/home/Tuizin/.config/swww/Skyrim/teste.gif"
+  }
+]
