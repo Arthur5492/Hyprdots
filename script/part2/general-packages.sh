@@ -27,6 +27,7 @@ packagesPacman=(
   "spotify" #Music player
   "swappy" #snapshot editing tool for Wayland
   "ttf-hack" #Hack font
+  "xclip" #Copy from terminal
   "ttf-joypixels" #JoyPixels emoji font
   "unzip" #utility for extracting zip files
   "vim" #text editor
@@ -38,6 +39,7 @@ packagesPacman=(
 );
 
 packagesYay=(
+  "auto-cpufreq"
   "opera" #web browser
   "opera-ffmpeg-codecs" #To work videos and music
   "neovim-git" #better text editor

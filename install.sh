@@ -42,11 +42,14 @@ stow --verbose --target=$HOME --restow */
 source script/part4/create_cache.sh #Create background cache
 source script/part4/restore_zsh.sh #Restore shell config
 source script/part4/displaymanager.sh #remove current display manager & install sddm
+auto-cpufreq --install #Enable battery saver#!
+
 
 xdg-user-dirs-update
 
-startReboot=$(gum choose "Installation finished!" "Reboot Now" "Later")
 
+
+startReboot=$(gum choose "Installation finished!" "Reboot Now" "Later")
 if [ $startReboot == "Reboot Now" ]; then
     sudo reboot now
 elif [$startReboot == "Later" ]; then

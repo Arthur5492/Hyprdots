@@ -4,8 +4,7 @@
 # set variables
 ScrDir=`dirname "$(realpath "$0")"`
 source "${ScrDir}/globalcontrol.sh"
-readarray -t theme_ctl < <( cut -d '|' -f 2 $ThemeCtl )
-
+readarray -t theme_ctl < <(jq -r '.[].name' $ThemeCtl )
 
 # define functions
 Theme_Change()
